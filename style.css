@@ -1,0 +1,20 @@
+/* Container 1 CSS code */
+.container1{
+    border: 1px solid black;
+    margin-bottom: 15px;
+}
+.container1 img{
+    border: 2px solid black;
+}
+.container1 p{
+    border: 1px solid black;
+}
+
+/* Container 1 CSS code */
+
+/* Container 2 CSS code */
+.container2{
+    border: 2px solid red;
+}
+
+/* Container 2 CSS code */
